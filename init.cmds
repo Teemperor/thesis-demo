@@ -1,0 +1,4 @@
+settings set symbols.clang-modules-cache-path /tmp/org.llvm.cache
+settings show symbols.clang-modules-cache-path
+#settings set target.import-std-module true
+settings set target.import-c++-modules true
